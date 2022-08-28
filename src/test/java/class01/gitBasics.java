@@ -9,6 +9,8 @@ public class gitBasics {
    System.out.println("today is a no beautiful day anymore");
 
    System.out.println("today is a no beautiful day anymore");
+
+   System.out.println("today is a no beautiful day anymore");
 	
     }
 }
